@@ -405,19 +405,46 @@
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| er | 二儿 | 2 |
+| diu |丢| 1 |
+| niu |牛妞扭纽拗| 5 |
+| liu |六留刘流柳| 5 |
+| you |又有忧油游友由优右邮幼诱| 12 |
 
 ### 25. ian
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
 | bian |  |  |
+| pian | | |
+| mian | | |
+| dian | | |
+| tian | | |
+| nian | | |
+| lian | | |
+| jian | | |
+| qian | | |
+| xian | | |
+| yan | | |
 
 ### 26. uan
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| er | 二儿 | 2 |
+| duan | | |
+| tuan | | |
+| nuan | | |
+| luan | | |
+| guan | | |
+| kuan | | |
+| huan | | |
+| zhuan | | |
+| chuan | | |
+| shuan | | |
+| ruan | | |
+| zuan | | |
+| cuan | | |
+| suan | | |
+| wan |  |  |
 
 ### 27. üan
 
