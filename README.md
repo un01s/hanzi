@@ -317,6 +317,19 @@
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
+| dong | | |
+| tong | | |
+| nong | | |
+| long | | |
+| gong | | |
+| kong | | |
+| hong | | |
+| zhong | | |
+| chong | | |
+| rong | | |
+| zong | | |
+| cong | | |
+| song | | |
 | wong | | |
 
 ### 16. ia
@@ -376,12 +389,22 @@
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
+| nue | | |
+| lue | | |
+| jue | | |
+| que | | |
+| xue | | |
 | yue | |  |
 
 ### 21. uai
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
+| dui | | |
+| tui | | |
+| gui | | |
+| kui | | |
+| hui | | |
 | wai |  |  |
 
 ### 22. uei
@@ -391,6 +414,7 @@
 | zhui | | |
 | chui | | |
 | shui | | |
+| rui | | |
 | zui | | |
 | cui | | |
 | sui | | |
@@ -400,6 +424,16 @@
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
 | biao | |  |
+| piao | | |
+| miao | | |
+| diao | | |
+| tiao | | |
+| niao | | |
+| liao | | |
+| jiao | | |
+| qiao | | |
+| xiao | | |
+| yao | | |
 
 ### 24. iou
 
@@ -450,55 +484,100 @@
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| er | 二儿 | 2 |
+| yuan |  |  |
 
 ### 28. in
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| bin |  | 2 |
+| bin |  |  |
+| pin | | |
+| min | | |
+| nin | | |
+| lin | | |
+| jin | | |
+| qin | | |
+| xin | | |
 
 ### 29. uen
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| er | 二儿 | 2 |
+| dun | | |
+| tun | | |
+| lun | | |
+| gun | | |
+| kun | | |
+| hun | | |
+| jun | | |
+| qun | | |
+| xun | | |
+| zhun | | |
+| chun | | |
+| shun | | |
+| run | | |
+| zun | | |
+| cun | | |
+| sun | | |
+| yun | |  |
 
 ### 30. ün
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| er | 二儿 | 2 |
+| yun |  |  |
 
 ### 31. iang
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| er | 二儿 | 2 |
+| niang | | |
+| liang | | |
+| jiang | | |
+| qiang | | |
+| xiang | | |
+| yang | |  |
 
 ### 32. uang
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| er | 二儿 | 2 |
+| guang | | |
+| kuang | | |
+| huang | | |
+| zhuang | | |
+| chuang | | |
+| shuang | | |
+| wang |  |  |
 
 ### 33. ing
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| bing |  | 2 |
+| bing |  |  |
+| ping | | |
+| ming | | |
+| ding | | |
+| ting | | |
+| ning | | |
+| ling | | |
+| jing | | |
+| qing | | |
+| xing | | |
 
 ### 34. ueng
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| er | 二儿 | 2 |
+| weng |  |  |
 
 ### 35. iong
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| er | 二儿 | 2 |
+| jiong | | |
+| qiong | | |
+| xiong | | |
 
 ### 36. special cases
 
