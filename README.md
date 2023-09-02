@@ -542,42 +542,42 @@
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| guang | | |
-| kuang | | |
-| huang | | |
-| zhuang | | |
-| chuang | | |
-| shuang | | |
-| wang |  |  |
+| guang |广光逛| 3 |
+| kuang |狂况矿框筐旷| 6 |
+| huang |黄晃慌皇荒恍| 6 |
+| zhuang |妆装撞庄桩幢| 7 |
+| chuang |床创窗闯疮| 5 |
+| shuang |双爽霜| 3 |
+| wang |王亡网忘往望旺汪枉| 9 |
 
 ### 33. ing
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| bing |  |  |
-| ping | | |
-| ming | | |
-| ding | | |
-| ting | | |
-| ning | | |
-| ling | | |
-| jing | | |
-| qing | | |
-| xing | | |
+| bing |兵冰并病丙饼| 6 |
+| ping |平瓶凭评苹乒屏坪| 8 |
+| ming |名明命鸣冥| 5 |
+| ding |丁定顶盯钉鼎| 6 |
+| ting |听挺停厅亭庭艇| 7 |
+| ning |宁拧凝| 3 |
+| ling |令灵零另领岭凌龄铃| 9 |
+| jing |经竟精京净静| 6 |
+| qing |青情请清晴倾轻| 7 |
+| xing |行兴性姓醒星形型幸杏| 10 |
 
 ### 34. ueng
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| weng |  |  |
+| weng |翁嗡瓮| 3 |
 
 ### 35. iong
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| jiong | | |
-| qiong | | |
-| xiong | | |
+| jiong |窘炯迥| 3 |
+| qiong |穷穹琼| 3 |
+| xiong |凶兄匈雄胸熊| 6 |
 
 ### 36. special cases
 
