@@ -251,67 +251,67 @@
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| ben | | |
-| pen | | |
-| men | | |
-| fen | | |
-| den | | |
-| gen | | |
-| ken | | |
-| hen | | |
-| zhen | | |
-| chen | | |
-| shen | | |
-| zen | | |
-| cen | | |
-| sen | | |
-| ren | | |
+| ben |本奔笨| |
+| pen |盆喷| |
+| men |门们闷| |
+| fen |分份粉奋芬粪坟愤焚| |
+| den |扽| |
+| gen |跟根哏| |
+| ken |肯啃垦恳| |
+| hen |很恨狠痕| |
+| zhen |真阵镇针珍震枕贞诊侦| |
+| chen |陈晨趁沉尘辰衬臣| |
+| shen |身神深肾伸申| |
+| zen |怎| |
+| cen |岑参| |
+| sen |森| |
+| ren |人忍任仁认刃韧| |
 
 ### 13. ang
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| ang | | |
-| bang | | |
-| pang | | |
-| mang | | |
-| fang | | |
-| dang | | |
-| tang | | |
-| nang | | |
-| lang | | |
-| gang | | |
-| kang | | |
-| hang | | |
-| zhang | | |
-| chang | | |
-| shang | | |
-| zang | | |
-| cang | | |
-| sang | | |
-| rang | | |
+| ang |昂盎| |
+| bang |榜帮棒邦绑傍镑| |
+| pang |胖旁庞乓| |
+| mang |忙盲茫芒| |
+| fang |方芳放访房防仿| |
+| dang |当党挡档荡| |
+| tang |唐躺汤趟堂烫| |
+| nang |囊馕| |
+| lang |浪狼朗廊| |
+| gang |刚港钢岗杠冈| |
+| kang |抗康扛炕亢| |
+| hang |航杭行夯| |
+| zhang |张长章涨掌账帐张| |
+| chang |长常唱厂场肠尝昌偿| |
+| shang |上伤商尚裳| |
+| zang |脏藏葬| |
+| cang |藏仓舱| |
+| sang |桑丧嗓| |
+| rang |让嚷瓤| |
 
 ### 14. eng
 
 | 拼音 | 汉字 | 其它 |
 | -- | -- | - |
-| beng | | |
-| peng | | |
-| meng | | |
-| feng | | |
-| deng | | |
-| teng | | |
-| neng | | |
-| leng | | |
-| geng | | |
-| keng | | |
-| heng | | |
-| zheng | | |
-| cheng | | |
-| sheng | | |
-| zeng | | |
-| seng | | |
-| reng | | |
+| beng |崩蹦绷泵蚌迸| |
+| peng |碰鹏彭捧朋烹| |
+| meng |梦萌猛蒙盟孟| |
+| feng |风疯封峰丰蜂枫讽| |
+| deng |登等灯邓蹬瞪凳| |
+| teng |疼腾藤| |
+| neng |能| |
+| leng |冷愣棱| |
+| geng |更梗耕庚哽| |
+| keng |坑吭| |
+| heng |横哼亨| |
+| zheng |正整证蒸睁症| |
+| cheng |成城称秤撑乘诚承| |
+| sheng |生声省胜升剩绳牲| |
+| zeng |增曾赠锃| |
+| seng |僧| |
+| reng |仍扔| |
 
 ### 15. ong
 
