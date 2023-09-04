@@ -580,6 +580,7 @@
 | jiong |窘炯迥| 3 |
 | qiong |穷穹琼| 3 |
 | xiong |凶兄匈雄胸熊| 6 |
+| yong | |
 
 ### 36. special cases
 
